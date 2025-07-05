@@ -35,10 +35,3 @@ This repository is part of my learning journey through hands-on mini projects, i
 
 
 
-
-### 🔧 Installation
-
-Install dependencies:
-
-```bash
-pip install pygame
